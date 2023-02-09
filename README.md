@@ -18,3 +18,4 @@ git commit -m "añadir .gitignore y 1.txt"
 | Compañero 1 | [Compañero 1](google.com) |
 | Compañero 2 | [Compañero 2](google.com) |
 | Compañero 3 | [Compañero 3](google.com) |
+
