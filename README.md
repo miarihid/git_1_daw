@@ -32,3 +32,6 @@ git checkout v0.2
 echo "adios" > 1.txt
 git add 1.txt
 git commit -m "commit en v0.2 para conflicto"
+git checkout main
+git merge v0.2
+
